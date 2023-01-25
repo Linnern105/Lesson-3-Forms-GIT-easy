@@ -1,0 +1,16 @@
+@font-face {
+    font-family: HZ;
+    src: url(SofiaSans-VariableFont_wght.ttf);
+}
+*{
+    font-family: HZ;
+}
+body{
+    margin: 0;
+}
+section{
+    padding-left: 30px;
+    margin: auto;
+    border: 2px solid black;
+    width: 270px;
+}
